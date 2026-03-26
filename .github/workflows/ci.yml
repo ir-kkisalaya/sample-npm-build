@@ -41,5 +41,6 @@ jobs:
         uses: ir-kkisalaya/pse-action@1.0
         with:
           cleanup: "true"
+          debug: true
       # ============= InvisiRisk Cleanup End =============
 
